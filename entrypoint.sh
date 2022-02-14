@@ -24,4 +24,5 @@ fi
 
 unset JAVA_HOME
 
+echo "Starting sonar qube scanner on ${INPUT_PROJECTBASEDIR} with optional args ${INPUT_ARGS}"
 sonar-scanner -Dsonar.projectBaseDir=${INPUT_PROJECTBASEDIR} ${INPUT_ARGS}
