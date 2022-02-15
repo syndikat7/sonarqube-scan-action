@@ -1,44 +1,22 @@
------BEGIN CERTIFICATE-----                                                                                                                                           
-MIIDtzCCAp+gAwIBAgIQVC1kb2rGBfUNY/ucPwzmRzANBgkqhkiG9w0BAQsFADAc                                                                                                      
-MRowGAYDVQQDDBFkb3QtYy5kYWltbGVyLmNvbTAeFw0yMTEwMjkwOTExNDlaFw0y                                                                                                      
-NDEwMTMwOTExNDlaMDwxOjA4BgNVBAMMMXdsdHBmcnQtc29uYXIuaW50ZXJuYWwt                                                                                                      
-c2VydmljZXMuZG90LWMuZGFpbWxlci5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IB                                                                                                      
-DwAwggEKAoIBAQDU01Z53D+XUb7lczeaR4ZUgHLi+hjSS+Vy0oXN1YbjCPdfJmwQ                                                                                                      
-fNkE0Af3+tojDrogXqRdHQ0gszfbJy/E3MRQAq44Y5N1IP1jw32G8ouf3S1662/y                                                                                                      
-uswwBHA0JnaDqSeEf2X/36CR0ia1QQ5LmwtUYsS48Dm3roH/U33YJRK3NazXulE6                                                                                                      
-AyHmkzA/KcRmHigZB413eb6cWjOrxy/4GGsuXaEFSi6s/uVQ7dkuhKsPbX1GSMRP                                                                                                      
-HkFvGWJJ2KSK47j07z0jSlvbNxNJTAaQx1gpVcDYn3rV+oZafcdeSEZTiZsuUYIZ                                                                                                      
-1R5J7tdjvXyIwJa3g+kRUq76aiJUQzjaOelJAgMBAAGjgdQwgdEwCQYDVR0TBAIw                                                                                                      
-ADAdBgNVHQ4EFgQURjPckZ+r1prSaxJzJqGEZ+mzE2kwVwYDVR0jBFAwToAUDpIk                                                                                                      
-IO4a5xerYLmTH0nV/m3azGuhIKQeMBwxGjAYBgNVBAMMEWRvdC1jLmRhaW1sZXIu                                                                                                      
-Y29tghQqx2iCjBztJir3IbWcX8GamxAkEjATBgNVHSUEDDAKBggrBgEFBQcDATAL                                                                                                      
-BgNVHQ8EBAMCBaAwKgYDVR0RBCMwIYIfd2x0cGZydC1zb25hci5kb3QtYy5kYWlt                                                                                                      
-bGVyLmNvbTANBgkqhkiG9w0BAQsFAAOCAQEA0RBGic4QQfYcMCKhgVZO5mVaehdb                                                                                                      
-cHtAAaKBxbOcYfdy7WpHPKuOY6RhNyEME15XrQMYwWWdmAzR7hWNAtvPgGQj4hnR                                                                                                      
-rWUXPfIY2GLRKWA4uAA9q7Zt7JrjffaIuRMXNJd/mDUBTTc3JJqSZdL7ZsuWjVTw                                                                                                      
-TB2+lq1nx3oUSEbZ7N6n3atdH1hrUmx3YQj9EJvmSe9TKmsUWPhk4L85tJb5OyC/                                                                                                      
-kNhrdKhaZbAJirM/X6SszNjkMw4ppGamSnlZ+Bcw2lzm9k2fbEDKtcovfHTssQJX                                                                                                      
-A7/ceDhKdHSRdrNxWGtr0IJfkZ2l16kc6jF1BuMzuoLXTWrGclB+Z3jckA==                                                                                                          
------END CERTIFICATE-----                                                                                                                                             
------BEGIN CERTIFICATE-----                                                                                                                                           
-MIIDtzCCAp+gAwIBAgIQVC1kb2rGBfUNY/ucPwzmRzANBgkqhkiG9w0BAQsFADAc                                                                                                      
-MRowGAYDVQQDDBFkb3QtYy5kYWltbGVyLmNvbTAeFw0yMTEwMjkwOTExNDlaFw0y                                                                                                      
-NDEwMTMwOTExNDlaMDwxOjA4BgNVBAMMMXdsdHBmcnQtc29uYXIuaW50ZXJuYWwt                                                                                                      
-c2VydmljZXMuZG90LWMuZGFpbWxlci5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IB                                                                                                      
-DwAwggEKAoIBAQDU01Z53D+XUb7lczeaR4ZUgHLi+hjSS+Vy0oXN1YbjCPdfJmwQ                                                                                                      
-fNkE0Af3+tojDrogXqRdHQ0gszfbJy/E3MRQAq44Y5N1IP1jw32G8ouf3S1662/y                                                                                                      
-uswwBHA0JnaDqSeEf2X/36CR0ia1QQ5LmwtUYsS48Dm3roH/U33YJRK3NazXulE6                                                                                                      
-AyHmkzA/KcRmHigZB413eb6cWjOrxy/4GGsuXaEFSi6s/uVQ7dkuhKsPbX1GSMRP                                                                                                      
-HkFvGWJJ2KSK47j07z0jSlvbNxNJTAaQx1gpVcDYn3rV+oZafcdeSEZTiZsuUYIZ                                                                                                      
-1R5J7tdjvXyIwJa3g+kRUq76aiJUQzjaOelJAgMBAAGjgdQwgdEwCQYDVR0TBAIw                                                                                                      
-ADAdBgNVHQ4EFgQURjPckZ+r1prSaxJzJqGEZ+mzE2kwVwYDVR0jBFAwToAUDpIk                                                                                                      
-IO4a5xerYLmTH0nV/m3azGuhIKQeMBwxGjAYBgNVBAMMEWRvdC1jLmRhaW1sZXIu                                                                                                      
-Y29tghQqx2iCjBztJir3IbWcX8GamxAkEjATBgNVHSUEDDAKBggrBgEFBQcDATAL                                                                                                      
-BgNVHQ8EBAMCBaAwKgYDVR0RBCMwIYIfd2x0cGZydC1zb25hci5kb3QtYy5kYWlt                                                                                                      
-bGVyLmNvbTANBgkqhkiG9w0BAQsFAAOCAQEA0RBGic4QQfYcMCKhgVZO5mVaehdb                                                                                                      
-cHtAAaKBxbOcYfdy7WpHPKuOY6RhNyEME15XrQMYwWWdmAzR7hWNAtvPgGQj4hnR                                                                                                      
-rWUXPfIY2GLRKWA4uAA9q7Zt7JrjffaIuRMXNJd/mDUBTTc3JJqSZdL7ZsuWjVTw                                                                                                      
-TB2+lq1nx3oUSEbZ7N6n3atdH1hrUmx3YQj9EJvmSe9TKmsUWPhk4L85tJb5OyC/                                                                                                      
-kNhrdKhaZbAJirM/X6SszNjkMw4ppGamSnlZ+Bcw2lzm9k2fbEDKtcovfHTssQJX                                                                                                      
-A7/ceDhKdHSRdrNxWGtr0IJfkZ2l16kc6jF1BuMzuoLXTWrGclB+Z3jckA==                                                                                                          
+-----BEGIN CERTIFICATE-----
+MIIDtzCCAp+gAwIBAgIQVC1kb2rGBfUNY/ucPwzmRzANBgkqhkiG9w0BAQsFADAc
+MRowGAYDVQQDDBFkb3QtYy5kYWltbGVyLmNvbTAeFw0yMTEwMjkwOTExNDlaFw0y
+NDEwMTMwOTExNDlaMDwxOjA4BgNVBAMMMXdsdHBmcnQtc29uYXIuaW50ZXJuYWwt
+c2VydmljZXMuZG90LWMuZGFpbWxlci5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQDU01Z53D+XUb7lczeaR4ZUgHLi+hjSS+Vy0oXN1YbjCPdfJmwQ
+fNkE0Af3+tojDrogXqRdHQ0gszfbJy/E3MRQAq44Y5N1IP1jw32G8ouf3S1662/y
+uswwBHA0JnaDqSeEf2X/36CR0ia1QQ5LmwtUYsS48Dm3roH/U33YJRK3NazXulE6
+AyHmkzA/KcRmHigZB413eb6cWjOrxy/4GGsuXaEFSi6s/uVQ7dkuhKsPbX1GSMRP
+HkFvGWJJ2KSK47j07z0jSlvbNxNJTAaQx1gpVcDYn3rV+oZafcdeSEZTiZsuUYIZ
+1R5J7tdjvXyIwJa3g+kRUq76aiJUQzjaOelJAgMBAAGjgdQwgdEwCQYDVR0TBAIw
+ADAdBgNVHQ4EFgQURjPckZ+r1prSaxJzJqGEZ+mzE2kwVwYDVR0jBFAwToAUDpIk
+IO4a5xerYLmTH0nV/m3azGuhIKQeMBwxGjAYBgNVBAMMEWRvdC1jLmRhaW1sZXIu
+Y29tghQqx2iCjBztJir3IbWcX8GamxAkEjATBgNVHSUEDDAKBggrBgEFBQcDATAL
+BgNVHQ8EBAMCBaAwKgYDVR0RBCMwIYIfd2x0cGZydC1zb25hci5kb3QtYy5kYWlt
+bGVyLmNvbTANBgkqhkiG9w0BAQsFAAOCAQEA0RBGic4QQfYcMCKhgVZO5mVaehdb
+cHtAAaKBxbOcYfdy7WpHPKuOY6RhNyEME15XrQMYwWWdmAzR7hWNAtvPgGQj4hnR
+rWUXPfIY2GLRKWA4uAA9q7Zt7JrjffaIuRMXNJd/mDUBTTc3JJqSZdL7ZsuWjVTw
+TB2+lq1nx3oUSEbZ7N6n3atdH1hrUmx3YQj9EJvmSe9TKmsUWPhk4L85tJb5OyC/
+kNhrdKhaZbAJirM/X6SszNjkMw4ppGamSnlZ+Bcw2lzm9k2fbEDKtcovfHTssQJX
+A7/ceDhKdHSRdrNxWGtr0IJfkZ2l16kc6jF1BuMzuoLXTWrGclB+Z3jckA==
 -----END CERTIFICATE-----
