@@ -18,7 +18,7 @@ USER root
 COPY certs /certs
 # Execute this command for any crt within the certs folder if you have multiple
 RUN ${JDK_PATH}/bin/keytool -import -alias sonar -storepass changeit -noprompt -keystore ${JDK_PATH}/lib/security/cacerts -file ${CERT_FOLDER}/sonar.crt
-RUN ${JDK_PATH}/bin/keytool -import -alias sonar -storepass changeit -noprompt -keystore ${JDK_PATH}/lib/security/cacerts -file ${CERT_FOLDER}/sonar.internal.crt
+RUN ${JDK_PATH}/bin/keytool -import -alias sonar1 -storepass changeit -noprompt -keystore ${JDK_PATH}/lib/security/cacerts -file ${CERT_FOLDER}/sonar.internal.crt
 
 COPY entrypoint.sh /entrypoint.sh
 RUN chmod +x /entrypoint.sh
