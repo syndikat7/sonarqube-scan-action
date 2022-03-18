@@ -27,4 +27,4 @@ unset JAVA_HOME
 echo "Starting sonar qube scanner on ${INPUT_PROJECTBASEDIR} with optional args ${INPUT_ARGS}"
 sonar-scanner -Dsonar.projectBaseDir=${INPUT_PROJECTBASEDIR} ${INPUT_ARGS}
 echo "Cleanup"
-rm -r ./scannerwork/
+rm -r ${INPUT_PROJECTBASEDIR}/scannerwork/"
